@@ -1,5 +1,5 @@
 'use strict'
 
 //NOTE: ignore this comment
-
-NOTE: perhaps this will be ignored
+note ignore line starting with note
+NOTE ignore me 
