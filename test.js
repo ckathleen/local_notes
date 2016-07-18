@@ -1,5 +1,7 @@
 'use strict'
 
-//NOTE: ignore this comment
-note ignore line starting with note
-NOTE ignore me 
+function somethingDope(){
+    console.log("hey there")
+}
+//regular useful comment
+
