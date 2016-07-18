@@ -6,4 +6,7 @@ function somethingDope(){
 	console.log("hi")
 }
 
+function somethingElse(){
+    console.log("hi")
+}
 
