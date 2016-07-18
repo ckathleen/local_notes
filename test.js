@@ -10,3 +10,7 @@ function somethingElse(){
     console.log("hi")
 }
 
+function something(){
+    console.log("hi")
+}
+
