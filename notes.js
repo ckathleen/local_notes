@@ -4,7 +4,7 @@
 -STEP 2
 --git config --global filter.gitignore.smudge cat
 -STEP 3
-
+    --ammending commits gets tricky - unsure
     --if changes in files result in no conflicts, local notes will be kept (aka a pull is not needed)
     --then local notes are kept and even git pull (because programmed to do rebase) will not overwrite
     --if you need to pull
