@@ -4,7 +4,8 @@
 -STEP 2
 --git config --global filter.gitignore.smudge cat
 -STEP 3
-    --if just local notes are added (no usecase there) because you wouldnt be commiting those comments so
 
---either git push -f 
---or $git stash save "localnotes" and then git stash apply 
+    --if changes in files result in no conflicts, local notes will be kept (aka a pull is not needed)
+    --then local notes are kept and even git pull (because programmed to do rebase) will not overwrite
+    --if you need to pull
+    --or $git stash save "localnotes" and then git stash apply 
