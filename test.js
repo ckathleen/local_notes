@@ -1,4 +1,5 @@
 'use strict'
 
-//#gitignore this is a local note 
-//#gitignore
+//NOTE: ignore this comment
+
+NOTE: perhaps this will be ignored
