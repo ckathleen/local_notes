@@ -2,7 +2,6 @@
 
 //regular useful comment
 function somethingDope(){
-    console.log("hey there")
     console.log("hi")
 }
 function something(){
