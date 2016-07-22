@@ -1,5 +1,4 @@
 'use strict'
-
 function something(){
     console.log("BRKT")
 }
