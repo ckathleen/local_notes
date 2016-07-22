@@ -9,6 +9,7 @@ function somethingDope(){
     console.log('yo')
     console.log("hola")
 }
+
 function something(){
     console.log("hey")
 }
